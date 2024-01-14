@@ -1,0 +1,77 @@
+Madden AMP 5.0 (Madden 24 Team.DB Porting via Frosty)
+
+
+**Madden 24 Porting Instructions:** Updated 1-13-24
+*******************************************************************************************************************************
+
+* Madden 20 Roster to League.DB + League Visual *
+
+
+
+Step 1: Load Madden 20 roster into Amp (If the roster you wish to port is Madden 21+, you must port the roster back to Madden 20 so Amp can read it. From here, you can edit the roster to your liking. Under tools, there are a Player Editor + Team Editor + Depth Chart Editor + Global Mass Attribute Editor to fine tune your roster. 
+I did create various generators (WIP) for updating the Madden 20 rosters to Madden 24. I have implemented the following:
+	- Traits Generator
+	- Madden 20 to Madden 22+ Face Converter *Important to run for porting
+	- Mass Body Metrics Generator *Important to run for porting
+	- Various Contract Generators *Improve contracts for Franchise play
+
+Step 2: Go to "Available Tables" under Tools - Import/Export CSV and select "M24 PGID Converter" at the top right corner under Madden 24 Porting Process. After you receive a message that it wass successful, select "PLAY" from the Available Tables (Player Table), click "ADD", then click Export Selected.
+	
+	* You can repeat the process if you want to export the following tables: 
+
+	-Depth Chart table "DCHT" 
+	-Injury Table "INJRY"
+	-Team Table "TEAM"
+
+**Courtesy of Bphit, I did add in a Depth Chart Generator that will read the "PLAY" table and generate a Depth Chart Table**
+	- * When using the Generate Depth Chart tool, make sure to remove the top header in your PLAY Table ("PLAY" "2008" or "2019" "No")prior to running the converter.
+
+Update- I have started to generate the Depth Charts after importing the PLAY table into the League.db since the PLAY table is no longer needed so I simply remove header and run the tool to generate the DCHT. Then I import the DCHT into the League.db and save the file. If you don't go this route, make sure to add the header back after you are done since it will be needed for importing into the League.Db . *
+	
+Step 3: To generate a Visual JSON, click the "Generate Visuals" button. After the CSV successfully generates,open it up in Excel and save the file again (Small glitch that I haven't been able to fix yet). Then click the CSV to JSON button to convert the file to a JSON. You will now have your "leaguevisuals.JSON" file which will be imported back into the MMC Editor tool under "leaguevisuals" in the Legacy Explorer. MAKE SURE TO SAVE (File -Save)  and then close Amp.
+
+Step 4: Open the MMC Editor and go to Legacy Explorer/Common/database/gamemodes. You will want to export the "league.db" file. **It is very important to remember this location as the edited "league.DB" + "leaguevisuals.JSON" will be imported back into this section.**
+
+Step 5: Load the "league.db" into Amp. The only option you will have available is Tools - Import/Export CSV.Go to Tools - Import/Export CSV and click on "Import CSV Table" (Bottom right side). Select the tables that you would like to import from the Madden 20 file that you exported earlier.You can only import 1 table at a time. When done, select "overwrite all Current Player Records". Repeat for each table (PLAY+DCHT+INJRY+etc).When completed, make sure to save the changes (File - Save).
+
+Step 6: ** Courtesy of WiiMaster **, Go to Tools - Import/Export CSV and under the "Misc.Tools"section, click on "Move Roster Saves (Porting)". * This step is very important as we are using the MMC Editor to turn the Roster into a Mod which will be "sideloaded" into Madden 24. You want to make sure that you are offline as well so the latest roster update doesn't generate in game.
+
+Step 7: Head back to the MMC Editor and import the "league.DB" + "Leaguevisuals.JSON" to the locations previously mentioned. When done, launch the mods via the editor + Madden Spark
+
+Step 8: Assuming you are offline in the EA Desktop, your roster should be present when you load into Madden 24. Go to Edit Roster to confirm. If successful, save the roster in game and you will officially have a Madden 24 roster. You can save the mod in MMC Editor if you plan on editing the roster outside of the game.  You will just need to repeat the previous steps.
+
+Step 9:** Courtesy of WiiMaster **, Go to Tools - Import/Export CSV and under the "Misc.Tools"section, click on "Return Roster Saves (Porting)". * This step is very important as it will return the roster saves that were moved for the porting process. The roster you just ported should be unaffected during this process.
+
+
+
+*******************************************************************************************************************************
+
+
+* Madden 20 Roster to Team.DB + Team Visuals + Gamemode.db + League.DB + League Visual * (WIP)
+
+
+Step 3B (optional): Open the MMC Editor and go to Legacy Explorer/Common/database/teams and select any team ( 49ers is the first available option). You will want to export the teamdb_"Team Name".DB file * Remember this location if you are trying to add additional teams to PLAY NOW Mode (example:D105 mod)
+
+
+
+Step 4B (optional): Load the teamdb_"Team Name".DB into Amp. Amp will read the db file the same way it reads a Madden 20 roster.
+
+Step 5B (optional): Go to Tools - Import/Export CSV and click on "Import CSV Table" (Bottom right side). Select the tables that you would like to add to the teamdb_"Team Name".DB file.You can only import 1 table at a time. When done, select "overwrite all Current Player Records". It will take a few seconds but you should see "successfully" or any errors in the "Imported CSV Player Errors"section. Repeat for each table (PLAY+DCHT+INJRY+etc. You can exit when it completes and head over to Tools - Player Editor to confirm your players did in fact import into the file. From here, you can edit the roster to your liking. Under tools, there are a Player Editor + Team Editor + Depth Chart Editor + Globale Mass Attribute Editor to fine tune your roster. 
+I did create various generators (WIP) for updating the Madden 20 rosters to Madden 24. I have implemented the following:
+	- Traits Generator
+	- Madden 20 to Madden 22+ Face Converter *Important to run for porting
+	- Mass Body Metrics Generator *Important to run for porting
+	- Various Contract Generators *Improve contracts for Franchise play
+
+Step 7: Repeat Step 2 with your teamdb_"Team Name".DB + click the "Generate Visuals" button. After the CSV successfully generates,open it up in Excel and save the file again.Then click the CSV to JSON button to convert the file to a JSON. You will now have your "leaguevisuals.JSON" file which will be imported back into the MMC Editor tool under "leaguevisuals" in the Legacy Explorer. MAKE SURE TO SAVE (File -Save)  and then close Amp.
+
+Step 8: Load the "league.db" into Amp. The only option you will have available is Tools - Import/Export CSV. From here, you will repeast Step 6. Go to Tools - Import/Export CSV and click on "Import CSV Table" (Bottom right side). Select the tables that you would like to import from the teamdb_"Team Name".DB file.You can only import 1 table at a time. When done, select "overwrite all Current Player Records". Repeat for each table (PLAY+DCHT+INJRY+etc).When completed, make sure to save the changes (File - Save).
+
+Step 9: ** Courtesy of WiiMaster **, Go to Tools - Import/Export CSV and under the "Misc.Tools"section, click on "Move Roster Saves (Porting)". * This step is very important as we are using the MMC Editor to turn the Roster into a Mod which will be "sideloaded" into Madden 24. You want to make sure that you are offline as well so the latest roster update doesn't generate in game.
+
+Step 10: Head back to the MMC Editor and import the "league.DB" + "Leaguevisuals.JSON" to the locations previously mentioned. If you are trying to make a mod similar to D105, you would also import your teamdb_"Team Name".DB and the "leaguevisuals.JSON"  into the appropriate files (League Visuals = your teamdb_"Team Name"_visuals). When done, launch the mods
+
+Step 11: Assuming you are offline in the EA Desktop, your roster should be present when you load into Madden 24. Go to Edit Roster to confirm. If successful, save the roster in game and you will officially have a Madden 24 roster. You can save the mod in MMC Editor if you plan on editing the roster outside of the game.  You will just need to repeat Step 5 - Step 11.
+
+Step 12:** Courtesy of WiiMaster **, Go to Tools - Import/Export CSV and under the "Misc.Tools"section, click on "Return Roster Saves (Porting)". * This step is very important as it will return the roster saves that were moved for the porting process. The roster you just ported should be unaffected during this process
+

@@ -1,0 +1,195 @@
+PLAB,2019,No,191
+BGID,BOFF,BNAM,PBAN
+0,0,CHI - M. Eberflus,Madden_Def_Bears
+0,1,CHI - M. Eberflus,Madden_Bears
+1,0,CIN - Z. Taylor,Madden_Def_Bengals
+1,1,CIN - Z. Taylor,Madden_Bengals
+2,0,BUF - S. McDermott,Madden_Def_Bills
+2,1,BUF - S. McDermott,Madden_Bills
+3,0,DEN - S. Payton,Madden_Def_Broncos
+3,1,DEN - S. Payton,Madden_Broncos
+4,0,CLE - K. Stefanski,Madden_Def_Browns
+4,1,CLE - K. Stefanski,Madden_Browns
+5,0,TB - T. Bowles,Madden_Def_Buccaneers
+5,1,TB - T. Bowles,Madden_Buccaneers
+6,0,ARI - J. Gannon,Madden_Def_Cardinals
+6,1,ARI - J. Gannon,Madden_Cardinals
+7,0,LAC - B. Staley,Madden_Def_Chargers
+7,1,LAC - B. Staley,Madden_Chargers
+8,0,KC - A. Reid,Madden_Def_Chiefs
+8,1,KC - A. Reid,Madden_Chiefs
+9,0,IND - S. Steichen,Madden_Def_Colts
+9,1,IND - S. Steichen,Madden_Colts
+10,0,DAL - M. McCarthy,Madden_Def_Cowboys
+10,1,DAL - M. McCarthy,Madden_Cowboys
+11,0,MIA - M. McDaniel,Madden_Def_Dolphins
+11,1,MIA - M. McDaniel,Madden_Dolphins
+12,0,PHI - N. Sirianni,Madden_Def_Eagles
+12,1,PHI - N. Sirianni,Madden_Eagles
+13,0,ATL - A. Smith,Madden_Def_Falcons
+13,1,ATL - A. Smith,Madden_Falcons
+14,0,SF - K. Shanahan,Madden_Def_49ers
+14,1,SF - K. Shanahan,Madden_49ers
+15,0,NYG - B. Daboll,Madden_Def_Giants
+15,1,NYG - B. Daboll,Madden_Giants
+16,0,JAX - D. Pederson,Madden_Def_Jaguars
+16,1,JAX - D. Pederson,Madden_Jaguars
+17,0,NYJ - R. Saleh,Madden_Def_Jets
+17,1,NYJ - R. Saleh,Madden_Jets
+18,0,DET - D. Campbell,Madden_Def_Lions
+18,1,DET - D. Campbell,Madden_Lions
+19,0,GB - M. LaFleur,Madden_Def_Packers
+19,1,GB - M. LaFleur,Madden_Packers
+20,0,CAR - F. Reich,Madden_Def_Panthers
+20,1,CAR - F. Reich,Madden_Panthers
+21,0,NE - B.Belichick,Madden_Def_Patriots
+21,1,NE - B.Belichick,Madden_Patriots
+22,0,LV - J. McDaniels,Madden_Def_Raiders
+22,1,LV - J. McDaniels,Madden_Raiders
+23,0,LAR - S. McVay,Madden_Def_Rams
+23,1,LAR - S. McVay,Madden_Rams
+24,0,BAL - J. Harbaugh,Madden_Def_Ravens
+24,1,BAL - J. Harbaugh,Madden_Ravens
+25,0,WAS - R. Rivera,Madden_Def_Redskins
+25,1,WAS - R. Rivera,Madden_Redskins
+26,0,NO - D. Allen,Madden_Def_Saints
+26,1,NO - D. Allen,Madden_Saints
+27,0,SEA - P. Carroll,Madden_Def_Seahawks
+27,1,SEA - P. Carroll,Madden_Seahawks
+28,0,PIT - M. Tomlin,Madden_Def_Steelers
+28,1,PIT - M. Tomlin,Madden_Steelers
+29,0,TEN - M. Vrabel,Madden_Def_Titans
+29,1,TEN - M. Vrabel,Madden_Titans
+30,0,MIN - K. O'Connell,Madden_Def_Vikings
+30,1,MIN - K. O'Connell,Madden_Vikings
+31,0,HOU - D. Ryans,Madden_Def_Texans
+31,1,HOU - D. Ryans,Madden_Texans
+32,0,4 3 Defense,Madden_4-3
+32,1,Balanced,Madden_Balanced
+33,0,3 4 Defense,Madden_3-4
+33,1,Spread,Madden_Balanced Pass
+34,0,46 Defense,Madden_46
+34,1,Run Balanced,Madden_Balanced Run
+35,0,Cover 2,Madden_Cover 2
+35,1,Run Heavy,Madden_Power Run
+36,0,Multiple D,Madden_Multiple D
+36,1,West Coast,Madden_West Coast
+37,1,Run 'N' Gun,Madden_Run n Gun
+38,1,Madden Elites,Madden_Elites
+39,1,Madden Legends,Madden_Legends
+40,1,Lshot Pres P Off,Longshot_Preaseason Practice Offense
+48,1,Pistol,Madden_Pistol
+49,1,Run and Shoot,Madden_Run and Shoot
+50,0,7on7 Defense,Longshot_7on7_Defense
+50,1,7on7 Offense,Longshot_7on7_Offense
+51,0,Longshot Defense,Longshot_4-3_Defense
+51,1,Highschool Offense,Longshot_HighSchool_Offense
+52,0,Combine Defense,Longshot_Training Camp Defense
+52,1,Combine Offense,Longshot_Training Camp Offense
+53,0,MUT KO Balanced Def,MUT_KO_Balanced_Defense
+53,1,MUT KO Balanced Off,MUT_KO_Balanced
+54,0,MUT KO D Mastermind D,MUT_KO_Defensive Mastermind_Defense
+54,1,MUT KO D Mastermind O,MUT_KO_Defensive Mastermind
+55,0,MUT KO Run Heavy Def,MUT_KO_Run Heavy_Defense
+55,1,MUT KO Run Heavy,MUT_KO_Run Heavy
+56,0,MUT KO Air Raid Def,MUT_KO_Air Raid_Defense
+56,1,MUT KO Air Raid,MUT_KO_Air Raid
+57,0,MUT KO Fundamentals D,MUT_KO_Fundamentals_Defense
+57,1,MUT KO Fundamentals O,MUT_KO_Fundamentals
+58,0,MUT KO Heavy Blitz D,MUT_KO_Heavy Blitz_Defense
+58,1,MUT KO Heavy Blitz O,MUT_KO_Heavy Blitz
+59,0,MUT KO O Mastermnd D,MUT_KO_Offensive Mastermind_Defense
+59,1,MUT KO O Mastermind O,MUT_KO_Offensive Mastermind
+60,0,MUT KO RPO Def,MUT_KO_RPO_Defense
+60,1,MUT KO RPO Off,MUT_KO_RPO
+61,0,MUT KO Run Heavy Def,MUT_KO_Run Heavy_Defense
+61,1,MUT KO Run Heavy Off,MUT_KO_Run Heavy
+62,0,MUT KO West Coast Def,MUT_KO_West Coast_Defense
+62,1,MUT KO West Coast Off,MUT_KO_West Coast
+63,0,INVALIDDEFPB,INVALIDPLAYBOOK
+63,1,INVALIDOFFPB,INVALIDPLAYBOOK
+64,0,MUT KO Byard Heroes D,MUT_KO_Backyard Heroes_Defense
+64,1,MUT KO Byard Heroes O,MUT_KO_Backyard Heroes
+65,0,The Yard D,KO_Next_Defense
+65,1,The Yard O,KO_Next_Offense
+66,0,The Yard CPU D,KO_Next_Defense_CPU
+66,1,The Yard CPU O,KO_Next_Offense_CPU
+67,0,MUT KO ChipChasers D,
+67,1,MUT KO ChipChasers O,
+68,0,MUT CPU Pass 4 3,Madden_4-3
+68,1,MUT CPU Passes,MUT_CPU_Passes
+69,0,MUT CPU Run 4 3,Madden_4-3
+69,1,MUT CPU Runs,MUT_CPU_Runs
+70,0,Pro Bowl,Fix Defense
+70,1,Pro Bowl,Fix Offense
+71,0,Madden 3on3 D,Madden_3on3_Defense
+71,1,Madden 3on3 O,Madden_3on3_Offense
+72,0,Madden 3on3 D Alt,Madden_3on3_Defense_Alternate
+72,1,Madden 3on3 O Alt,Madden_3on3_Offense_Alternate
+90,1,Air Raid,Madden_Air Raid
+100,0,CHI - M. Eberflus   Live,NFL_Live_Def_Bears
+100,1,CHI - M. Eberflus   Live,NFL_Live_Bears
+101,0,CIN - Z. Taylor   Live,NFL_Live_Def_Bengals
+101,1,CIN - Z. Taylor   Live,NFL_Live_Bengals
+102,0,BUF - S. McDermott  Live,NFL_Live_Def_Bills
+102,1,BUF - S. McDermott  Live,NFL_Live_Bills
+103,0,DEN - S. Payton   Live,NFL_Live_Def_Broncos
+103,1,DEN - S. Payton   Live,NFL_Live_Broncos
+104,0,CLE - K. Stefanski   Live,NFL_Live_Def_Browns
+104,1,CLE - K. Stefanski   Live,NFL_Live_Browns
+105,0,TB - T. Bowles   Live,NFL_Live_Def_Buccaneers
+105,1,TB - T. Bowles   Live,NFL_Live_Buccaneers
+106,0,ARI - J. Gannon  Live,NFL_Live_Def_Cardinals
+106,1,ARI - J. Gannon  Live,NFL_Live_Cardinals
+107,0,LAC - B. Staley   Live,NFL_Live_Def_Chargers
+107,1,LAC - B. Staley   Live,NFL_Live_Chargers
+108,0,KC - A. Reid   Live,NFL_Live_Def_Chiefs
+108,1,KC - A. Reid   Live,NFL_Live_Chiefs
+109,0,IND - S. Steichen   Live,NFL_Live_Def_Colts
+109,1,IND - S. Steichen   Live,NFL_Live_Colts
+110,0,DAL - M. McCarthy   Live,NFL_Live_Def_Cowboys
+110,1,DAL - M. McCarthy   Live,NFL_Live_Cowboys
+111,0,MIA - M. McDaniel   Live,NFL_Live_Def_Dolphins
+111,1,MIA - M. McDaniel   Live,NFL_Live_Dolphins
+112,0,PHI - N. Sirianni   Live,NFL_Live_Def_Eagles
+112,1,PHI - N. Sirianni   Live,NFL_Live_Eagles
+113,0,ATL - A. Smith   Live,NFL_Live_Def_Falcons
+113,1,ATL - A. Smith   Live,NFL_Live_Falcons
+114,0,SF - K. Shanahan   live,NFL_Live_Def_49ers
+114,1,SF - K. Shanahan   Live,NFL_Live_49ers
+115,0,NYG - B. Daboll   Live,NFL_Live_Def_Giants
+115,1,NYG - B. Daboll   Live,NFL_Live_Giants
+116,0,JAX - D. Pederson   Live,NFL_Live_Def_Jaguars
+116,1,JAX - D. Pederson   Live,NFL_Live_Jaguars
+117,0,NYJ - R. Saleh   Live,NFL_Live_Def_Jets
+117,1,NYJ - R. Saleh   Live,NFL_Live_Jets
+118,0,DET - D. Campbell   Live,NFL_Live_Def_Lions
+118,1,DET - D. Campbell   Live,NFL_Live_Lions
+119,0,GB - M. LaFleur   Live,NFL_Live_Def_Packers
+119,1,GB - M. LaFleur   Live,NFL_Live_Packers
+120,0,CAR - F. Reich   Live,NFL_Live_Def_Panthers
+120,1,CAR - F. Reich   Live,NFL_Live_Panthers
+121,0,NE - B.Belichick   Live,NFL_Live_Def_Patriots
+121,1,NE - B.Belichick   Live,NFL_Live_Patriots
+122,0,LV - J. McDaniels   Live,NFL_Live_Def_Raiders
+122,1,LV - J. McDaniels   Live,NFL_Live_Raiders
+123,0,LAR - S. McVay   Live,NFL_Live_Def_Rams
+123,1,LAR - S. McVay   Live,NFL_Live_Rams
+124,0,BAL - J. Harbaugh   Live,NFL_Live_Def_Ravens
+124,1,BAL - J. Harbaugh   Live,NFL_Live_Ravens
+125,0,WAS - R. Rivera   Live,NFL_Live_Def_Redskins
+125,1,WAS - R. Rivera   Live,NFL_Live_Redskins
+126,0,NO - D. Allen   Live,NFL_Live_Def_Saints
+126,1,NO - D. Allen   Live,NFL_Live_Saints
+127,0,SEA - P. Carroll   Live,NFL_Live_Def_Seahawks
+127,1,SEA - P. Carroll   Live,NFL_Live_Seahawks
+128,0,PIT - M. Tomlin   Live,NFL_Live_Def_Steelers
+128,1,PIT - M. Tomlin   Live,NFL_Live_Steelers
+129,0,TEN - M. Vrabel   Live,NFL_Live_Def_Titans
+129,1,TEN - M. Vrabel   Live,NFL_Live_Titans
+130,0,MIN - K. O'Connell   Live,NFL_Live_Def_Vikings
+130,1,MIN - K. O'Connell   Live,NFL_Live_Vikings
+131,0,HOU - D. Ryans   Live,NFL_Live_Def_Texans
+131,1,HOU - D. Ryans   Live,NFL_Live_Texans
+222,1,MiniGames Offense,Minigames_Off
+223,0,MiniGames_Defense,Minigames_Def

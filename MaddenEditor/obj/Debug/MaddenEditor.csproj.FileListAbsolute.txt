@@ -1,0 +1,179 @@
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\bin\Debug\MaddenEditor.exe.config
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\bin\Debug\MaddenEditor.exe
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\bin\Debug\MaddenEditor.pdb
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\bin\Debug\System.XML.dll
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.csprojAssemblyReference.cache
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.AboutBox.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.GameOptions2019.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.OptionsForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.City.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.DatConfigForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ColorChooser.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.CustomTeamForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.DepthChartEditorControl.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.DepthChartEditorForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.DeveloperBioForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.DraftConfigForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.DraftForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ExportForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.FAQ.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.GameInjuryForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.GameOptions.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.GlobalAttributeForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.MainForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ManagerDraftConfig.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ManagerMain.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ManagerOptions.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.OwnerFinances.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.PlayerEditControl.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ProfileDialog.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.FranchiseOptionsForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ScheduleEditingForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ScoutingForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.SearchForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.CoachEditControl.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.Revisions.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.StadiumEditForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TeamCaptainForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TeamEditControl.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TradeDownForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TradeUpForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampOffSeason.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.UserControlledTeamForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.WeeklyMaintenanceForm.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Properties.Resources.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ExceptionDialog.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampFAQ.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampFormOptions.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampTuneGUI.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampMeeting.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampSplashScreen.resources
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.csproj.GenerateResource.cache
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.csproj.CopyComplete
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.exe
+C:\Users\Shadow\Downloads\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.pdb
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\bin\Debug\MaddenEditor.exe.config
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\bin\Debug\MaddenEditor.exe
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\bin\Debug\MaddenEditor.pdb
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\bin\Debug\System.XML.dll
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.csproj.AssemblyReference.cache
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.AboutBox.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.GameOptions2019.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.OptionsForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.City.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.DatConfigForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ColorChooser.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.CustomTeamForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.DepthChartEditorControl.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.DepthChartEditorForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.DeveloperBioForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.DraftConfigForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.DraftForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ExportForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.FAQ.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.GameInjuryForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.GameOptions.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.GlobalAttributeForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.MainForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ManagerDraftConfig.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ManagerMain.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ManagerOptions.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.OwnerFinances.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.PlayerEditControl.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ProfileDialog.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.FranchiseOptionsForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ScheduleEditingForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ScoutingForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.SearchForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.CoachEditControl.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.Revisions.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.StadiumEditForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TeamCaptainForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TeamEditControl.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TradeDownForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TradeUpForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampOffSeason.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.UserControlledTeamForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.WeeklyMaintenanceForm.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Properties.Resources.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ExceptionDialog.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampFAQ.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampFormOptions.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampTuneGUI.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampMeeting.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampSplashScreen.resources
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.csproj.GenerateResource.cache
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.csproj.CoreCompileInputs.cache
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.csproj.CopyComplete
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.exe
+C:\Users\madsk\Downloads\AMP SourceCode\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.pdb
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\bin\Debug\MaddenEditor.exe.config
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\bin\Debug\MaddenEditor.exe
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\bin\Debug\MaddenEditor.pdb
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\bin\Debug\System.XML.dll
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.csproj.AssemblyReference.cache
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.AboutBox.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.GameOptions2019.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.OptionsForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.City.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.DatConfigForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ColorChooser.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.CustomTeamForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.DepthChartEditorControl.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.DepthChartEditorForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.DeveloperBioForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.DraftConfigForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.DraftForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ExportForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.FAQ.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.GameInjuryForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.GameOptions.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.GlobalAttributeForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.MainForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ManagerDraftConfig.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ManagerMain.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ManagerOptions.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.OwnerFinances.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.PlayerEditControl.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ProfileDialog.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.FranchiseOptionsForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ScheduleEditingForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ScoutingForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.SearchForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.CoachEditControl.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.Revisions.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.StadiumEditForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TeamCaptainForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TeamEditControl.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TradeDownForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TradeUpForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampOffSeason.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.UserControlledTeamForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.WeeklyMaintenanceForm.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Properties.Resources.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.ExceptionDialog.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampFAQ.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampFormOptions.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampTuneGUI.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampMeeting.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.Forms.TrainingCampSplashScreen.resources
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.csproj.GenerateResource.cache
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.csproj.CoreCompileInputs.cache
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.csproj.CopyComplete
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.exe
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\obj\Debug\MaddenEditor.pdb
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\bin\Debug\CsvHelper.dll
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\bin\Debug\Newtonsoft.Json.dll
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\bin\Debug\System.Buffers.dll
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\bin\Debug\System.Memory.dll
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\bin\Debug\System.ValueTuple.dll
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\bin\Debug\CsvHelper.xml
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\bin\Debug\Newtonsoft.Json.xml
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\bin\Debug\System.Buffers.xml
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\bin\Debug\System.Memory.xml
+D:\Madden Tools\AMP SourceCode4.46\AMP SourceCode\MaddenEditor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
