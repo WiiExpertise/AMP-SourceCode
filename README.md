@@ -58,4 +58,4 @@ https://www.microsoft.com/en-us/download/details.aspx?id=40779
 * More...
 
 ## License
-This program is developed under the GPL. See license.md for full license.
+This program is developed under the GPL. See the license file for full license.
